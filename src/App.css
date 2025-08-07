@@ -1,0 +1,21 @@
+.nav-head {
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  z-index: 1000;
+}
+
+.ex {
+  display: none;
+}
+
+.content {
+  margin-top: 6rem;
+  background-color: blue;
+}
+
+.page {
+  text-align: center;
+  margin: -1em;
+  height: 100rem;
+}
